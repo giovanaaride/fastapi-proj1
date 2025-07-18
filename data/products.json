@@ -1,0 +1,45 @@
+{
+    "products": 
+    [
+        { 
+            "name": "Notebook",
+            "price": 2400.0
+        },
+        {
+            "name": "Smartphone",
+            "price": 800.0
+        },
+        {
+            "name": "Tablet",
+            "price": 6000.0
+        },
+        {
+            "name": "Smartwatch",
+            "price": 2500.0
+        },
+        {
+            "name": "Headphones",
+            "price": 150.0
+        },
+        {
+            "name": "Bluetooth Speaker",
+            "price": 100.0
+        },
+        {
+            "name": "Wireless Mouse",
+            "price": 50.0
+        },
+        {
+            "name": "Keyboard",
+            "price": 300.0
+        },
+        {
+            "name": "Monitor",
+            "price": 1500.0
+        },
+        {
+            "name": "External Hard Drive",
+            "price": 400.0
+        }
+    ]
+}
